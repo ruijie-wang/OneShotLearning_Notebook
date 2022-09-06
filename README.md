@@ -2,6 +2,7 @@
 **8/31/2022 Start**
 <br>
 **In this repo, I'll use one shot/few shot learning method to process my simulated data.**
+<<<<<<< HEAD
 ____
 
 *Dataset*:<br> 
@@ -19,3 +20,10 @@ ____
 8 a baseline for few-shot image classification
 9 a new meta baseline for few-shot learning
 
+=======
+
+Folds:<br>
+1. colored images
+
+---
+>>>>>>> 0c93c7584a4d23d8e749c32acdbe02bb9fa64b65
