@@ -25,5 +25,6 @@ ____
 Folds:<br>
 1. colored images
 
----
->>>>>>> 0c93c7584a4d23d8e749c32acdbe02bb9fa64b65
+
+** Record:<br>
+9/28/2022: I finished my _data pairs_. Same category images labeled as '1'; different category images labeled as '0'. 
